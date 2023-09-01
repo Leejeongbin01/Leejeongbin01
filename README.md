@@ -7,6 +7,5 @@
 ### Baek-Joon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljb011013)](https://solved.ac/ljb011013/)
 
-###
-Code-Tree
+### Code-Tree
 [![](https://banner.codetree.ai/v1/banner/ljb011013)](https://www.codetree.ai/profiles/ljb011013)
